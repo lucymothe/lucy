@@ -1,0 +1,14 @@
+createUser.firstName.Name=firstName
+createUser.firstName.Type=text
+createUser.firstName.MainLabel=Full name
+createUser.firstName.maxlength=15
+createUser.firstName.Required=yes
+createUser.firstName.error.required=Please enter the Full name.
+createUser.firstName.error.maxLength=The max. length for Full name is 15 characters.
+createUser.firstName.tooltip.text=
+createUser.firstName.isFamilyField=
+createUser.firstName.isBusinessField=
+createUser.firstName.Alignment=left
+createUser.firstName.Width=half
+createUser.firstName.Displayed=yes
+createUser.firstName.FieldSequence=2102
